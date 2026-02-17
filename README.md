@@ -111,9 +111,7 @@ Step 5: Run Server
 python manage.py runserver
 
 
-Open browser:
 
-http://127.0.0.1:8000/
 
 🔐 System Modules
 
